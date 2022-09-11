@@ -1,0 +1,14 @@
+<html>
+    <head>
+        {% if title %}
+        <title>{{ title }} Page</title>
+        {% else %}
+        <title>Welcome to Studying Flask!</title>
+        {% endif %}
+    </head>
+    <body>
+        <div>Main page: <a href="/index">Home</a></div>
+        <hr>
+        {% block content %}{% endblock %}
+    </body>
+</html>
