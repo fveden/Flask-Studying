@@ -68,3 +68,7 @@ sqlalchemy.exc.IntegrityError: (sqlite3.IntegrityError) UNIQUE constraint failed
 [parameters: ('fedor', "I'm susan, nice to meet you\r\n", 1)]
 (Background on this error at: https://sqlalche.me/e/14/gkpj)
 2022-09-18 23:17:10,467 INFO: Microblog startup [in D:\Курсовая работа\Flask-Studying\app\__init__.py:31]
+2022-09-20 16:44:25,932 INFO: Microblog startup [in D:\Курсовая работа\Flask-Studying\app\__init__.py:31]
+2022-09-20 16:44:37,242 INFO: Microblog startup [in D:\Курсовая работа\Flask-Studying\app\__init__.py:31]
+2022-09-20 20:18:56,491 INFO: Microblog startup [in D:\Курсовая работа\Flask-Studying\app\__init__.py:31]
+2022-09-20 20:25:36,088 INFO: Microblog startup [in D:\Курсовая работа\Flask-Studying\app\__init__.py:31]
